@@ -10,3 +10,5 @@ I am eager to learn everything related to data and visualization!
 
 # Portfolio
 Here is where all my cool work will go. You will defintely hire me by seeing these!
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7205607"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
