@@ -11,20 +11,20 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 
 ## 1. General Government Debt-to-GDP Ratio Trend in OCED countries
 <br>
-This is a grid of line charts for General Government Debt-to-GDP Ratio, and we are able to see General Government Debt-to-GDP Ratio Trends in different countries. The x-axis represents "year", ranged from 1995 to 2019, and the y-axis stands for Debt-to-GDP Ratio. 
+This is a grid of line charts for the General Government Debt-to-GDP Ratio, and we are able to see the general government Debt-to-GDP ratio trends in different countries. The x-axis represents "year", ranged from 1995 to 2019, and the y-axis stands for Debt-to-GDP Ratio. The benefit of a grid of line charts is that reader can glance at the trend lines in a bigger picture. However, line charts fail to articulate the detailed comparison.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7236778"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <br>
 ## 2. Debt-to-GDP Ratio for Japan and Greece from 1995 to 2019
 <br>
-I created a Hans Rosling chart from the same dataset. Hans Rosling charts are plotted to help readers see the changes Japan and Greece made from 1995 to 2019. Please click the "play" button to view the variation. The size of the dots also represents the value of the Debt-to-GDP Ratio. By doing so, readers can notice the changes more easily.   
+To visually compare different countries' ratios, I created a Hans Rosling chart from the same dataset. Hans Rosling charts are plotted to highlight the changes Japan and Greece made from 1995 to 2019. Please click the "play" button to view the variation. The size of the dots also represents the value of the Debt-to-GDP Ratio. By doing so, readers can notice the changes more easily.   
 <br>
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7240079"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Part 3: Working with Tableau
 <br>
-I used Tableau to create a highlight table which displays countries with the sum of the Debt-to-GDP Ratio in order.   
+This data table shows the same dataset as the previous ones. I used Tableau to create a highlighted table that displays countries with the sum of the Debt-to-GDP Ratio in order. Tableau could customize the colors of the data points by categorizing or filtering, which is handy if we want to highlight specific values or categories. 
 <br>
 <iframe src="https://public.tableau.com/views/Book1_16314575101000/GeneralGovernmentDebt-to-GDPRatioTrendinOCEDcountries?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link"
  width="980" height="645"></iframe>
