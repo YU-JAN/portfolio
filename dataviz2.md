@@ -2,7 +2,7 @@
 
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.
 
-<iframe src="https://data.oecd.org/chart/6swC" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6swC" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+<iframe src="https://data.oecd.org/chart/6swC" width="900" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6swC" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 <br>
 <br>
@@ -27,4 +27,4 @@ I created a Hans Rosling chart from the same dataset. Hans Rosling charts are pl
 I used Tableau to create a highlight table which displays countries with the sum of the Debt-to-GDP Ratio in order.   
 <br>
 <iframe src="https://public.tableau.com/views/Book1_16314575101000/GeneralGovernmentDebt-to-GDPRatioTrendinOCEDcountries?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link"
- width="860" height="645"></iframe>
+ width="900" height="645"></iframe>
