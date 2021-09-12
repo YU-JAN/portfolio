@@ -16,6 +16,6 @@ This is a grid of line charts for General Government Debt-to-GDP Ratio, and we a
 <br>
 Debt-to-GDP Ratio for Japan and Greece from 1995 to 2019
 <br>
-The Hans Rosling chart is ploted to help readers to see the highes 
+I created a Hans Rosling chart from the same dataset. Hans Rosling charts are plotted to help readers see the changes Japan and Greece made from 1995 to 2019. Please click the "play" button to view the variation. The size of the dots also represents the value of the Debt-to-GDP Ratio. By doing so, readers can notice the changes more easily.   
 <br>
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7240079"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
