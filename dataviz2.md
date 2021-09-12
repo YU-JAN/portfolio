@@ -14,6 +14,8 @@ This is a grid of line charts for General Government Debt-to-GDP Ratio, and we a
 <div class="flourish-embed flourish-chart" data-src="visualisation/7236778"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <br>
-Exploreation
+Debt-to-GDP Ratio for Japan and Greece from 1995 to 2019
+<br>
+The Hans Rosling chart is ploted to help readers to see the highes 
 <br>
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7240079"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
