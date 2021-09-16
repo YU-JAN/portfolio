@@ -11,4 +11,5 @@ I am eager to learn everything related to data and visualization!
 # Portfolio
 Here is where all my cool work will go. You will defintely hire me by seeing these!
 
-[Assignment: Visualizing government debt](/dataviz2.md)
+[Assignment1: Visualizing government debt](/dataviz2.md)
+[Assignment2: Critique by Design](/dataviz3.md)
