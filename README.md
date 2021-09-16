@@ -12,4 +12,5 @@ I am eager to learn everything related to data and visualization!
 Here is where all my cool work will go. You will defintely hire me by seeing these!
 
 [Assignment1: Visualizing government debt](/dataviz2.md)
+<br>
 [Assignment2: Critique by Design](/dataviz3.md)
