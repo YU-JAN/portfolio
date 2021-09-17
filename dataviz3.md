@@ -26,12 +26,15 @@ Aesthetics:6/10 ★★★★★★☆☆☆☆
 <br>
 Engagement:9/10 ★★★★★★★★★☆
 <br>
-### overall observations
+### Overall Observations
+
+I was initially intrigued by the appealing title: brain size and brain weight, 
 
 ### primary audience?
+I can't be sure who the target audiences are, but since the graphic was posted on Reddit, I assume the intended reader would be people who like data visualization. This post got 3.7k likes with 290 comments, so I believe the DataViz is quite successful in terms of catching people's eyes.
 
 ### Final thoughts: 
-
+I really likeStephen Few's Data Visualization Effectiveness method, and I personally think this is more like a usability heuristic evaluation 
 
 
 ## Step3. wireframe a solution
