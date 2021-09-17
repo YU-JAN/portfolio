@@ -32,7 +32,7 @@ I was initially intrigued by the appealing title: brain size and brain weight be
 <br>
 (1) The axes are log scales: I did not notice the author used a logarithmic scale until I further looking into the dataset. This graphic somehow gave me a feeling of "most animals have a similar brain-to-body ratio", yet it's not true. I understand there are some outliers, and the log scale can better handle it, but we might need to be mindful that whether the chart will mislead readers. 
 <br>
-(2) The color of dot: I am not convinced by the color palette in this graphic because I do not think purple stands for any definition of "small". Instead of color-coding dots, I might change dot size to articulate the differences.
+(2) The colors of dots: I am not convinced by the color palette in this graphic because I do not think purple stands for any definition of "small". Instead of color-coding dots, I might change dot size to articulate the differences.
 <br>
 (3) A wall of labels: While looking at this graphic, my first impression was overloaded information. Especially, I was using my smartphone to read the visualization, and I could barely see the labels. Even "Human" is colored in yellow, I was not able to spot it on my phone. My suggestion will be (a) to Increase the label size (b)Eliminate some labels and remain ones we would like to share. 
 <br>
