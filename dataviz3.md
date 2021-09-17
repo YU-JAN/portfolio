@@ -46,6 +46,11 @@ I like Stephen Few's Data Visualization Effectiveness method because it gives co
 
 ## Step3. wireframe a solution
 
+I skethced the wireframe on Figma:
+![Image of wireframe](https://ppt.cc/fM5J5x@.png)
+
+<iframe width="100%" height="445" frameborder="0"
+  src="https://observablehq.com/embed/@daisychang/untitled?cells=chart2"></iframe>
 
 
 ## Step4. test the solution
