@@ -69,6 +69,9 @@ I tested my wireframe with two people. I created a set of questions similar to t
 J is a softeware engineer based in Taiwan
 <br>
 Her feedback:
+<br>
+Since J has experience making data visualization before, she double confirmed all variables on the chart first. She liked having bubble maps to articulate the brain-to-body ratio, but she also questioned the relationships between different positions of dots, which in this chart has no meaning. She also pointed out that it's important to have x and y axes in a chart because she could compare the relative brain and body weights with different species. She was curious about that whether I could add the EQ data to the chart. Her insight from the chart was that the higher brain-to-body ratio does not mean the smarter species because a ground squirrel has the highest brain-to-body ratio, yet its EQ, in common sense, is not higher than human beings.
+
 
 ### Second test participant:
 M is a softeware engineer based in Pittsburgh
