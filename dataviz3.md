@@ -88,4 +88,6 @@ I used Tableau to visualize data because Tableau allows more custimized function
 
 ### Final Data Visualization
 
+https://public.tableau.com/app/profile/yu.jan.chang/viz/assignment3_16319901230970/Sheet1
+
 <div class='tableauPlaceholder' id='viz1631990146588' style='position: relative'><noscript><a href='#'><img alt='Higher Brain-to-body Ratio Means Smarter Species? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;as&#47;assignment3_16319901230970&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='assignment3_16319901230970&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;as&#47;assignment3_16319901230970&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-TW' /><param name='filter' value='publish=yes' /></object></div>            
