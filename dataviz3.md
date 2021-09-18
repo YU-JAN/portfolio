@@ -85,6 +85,9 @@ I used Tableau to visualize data because Tableau allows more custimized function
 
 ### Key Design Decisions
 
+1. Add the x and y axis: Thought I do not really like the scale to be log-based, I added them back so that readers are able to easily compare brain weights and body weights among different species.
+2. Change the header
+3. 
 
 ### Final Data Visualization
 
