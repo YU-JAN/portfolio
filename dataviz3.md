@@ -47,10 +47,10 @@ I like Stephen Few's Data Visualization Effectiveness method because it gives co
 ## Step3. wireframe a solution
 
 I intended to have my readers focus on the comparision of brain-to-body ratios among all 40 species, and I think a bubble chart might help reader to visually compare.I skethced the wireframe on Figma:
-![Image of wireframe](https://ppt.cc/fkbEsx@.png)
+<br>
+![Image of wireframe](https://ppt.cc/feQYpx@.png)
 
-
-
+<br>
 
 ## Step4. test the solution
 
