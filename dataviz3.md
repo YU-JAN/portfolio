@@ -57,27 +57,20 @@ I intended to have my readers focus on the comparision of brain-to-body ratios a
 
 I tested my wireframe with two people. I created a set of questions similar to the questions on the Canvas:
 - Can you tell me what you think this is?
-<br>
 - Can you describe to me what this is telling you?
-<br>
 - Is there anything you find surprising or confusing?
-<br>
 - Any other things you want to see in this chart?
-<br>
 - Who do you think is the intended audience for this?
-<br>
 - Is there anything you would change or do differently?
 <br>
 
 
 ### First test participant:
-<br>
 J is a softeware engineer based in Taiwan
 <br>
 Her feedback:
 
 ### Second test participant:
-<br>
 M is a softeware engineer based in Pittsburgh
 <br>
 His feedback:
