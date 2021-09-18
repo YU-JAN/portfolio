@@ -76,3 +76,11 @@ M is a softeware engineer based in Pittsburgh
 His feedback:
 
 ## Step5. build my solution
+
+A link to the original data visualization:
+I used Tableau to visualize data because Tableau allows more custimized functionalities compared to Flourish.
+
+### Key Design Decisions
+
+
+### Final Data Visualization
