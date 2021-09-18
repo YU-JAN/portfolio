@@ -56,7 +56,6 @@ I intended to have my readers focus on the comparision of brain-to-body ratios a
 ## Step4. test the solution
 
 I tested my wireframe with two people. I created a set of questions similar to the questions on the Canvas:
-<br>
 - Can you tell me what you think this is?
 <br>
 - Can you describe to me what this is telling you?
