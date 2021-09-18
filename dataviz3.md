@@ -38,21 +38,22 @@ I was initially intrigued by the appealing title: brain size and brain weight be
 <br>
 
 
-### primary audience?
+### Primary Audience?
 I can't be sure who the target audiences are, but since the graphic was posted on Reddit, I assume the intended reader would be people who like data visualization. This post got 3.7k likes with 290 comments, so I believe the DataViz is quite successful in terms of catching people's eyes.
 
-### Final thoughts: 
+### Final Thoughts: 
 I like Stephen Few's Data Visualization Effectiveness method because it gives comprehensive usability and aesthetic evaluation, I could imagine implementing this rubric into my future design critique sessions. If I were to add any other dimension for the critique evaluation, I might include "technical difficulty" and "business impact"(if it really can trigger some actions or behaviors?). Data visualization not only requires a strong design sense but also the tech capability to analyze data. On the other hand, I once heard from my friend who works at a media saying DataViz sometimes is just a deliverable that excites engineers but rarely drives business impact. Learning from her words, I think it is essential to consider business impact while making a chart.
 
 ## Step3. wireframe a solution
 
-I skethced the wireframe on Figma:
-![Image of wireframe](https://ppt.cc/fM5J5x@.png)
+I intended to have my readers focus on the comparision of brain-to-body ratios among all 40 species, and I think a bubble chart might help reader to visually compare.I skethced the wireframe on Figma:
+![Image of wireframe](https://ppt.cc/fkbEsx@.png)
 
-<iframe width="100%" height="445" frameborder="0"
-  src="https://observablehq.com/embed/@daisychang/untitled?cells=chart2"></iframe>
+
 
 
 ## Step4. test the solution
+
+I tested my wireframe with two people.
 
 ## Step5. build my solution
