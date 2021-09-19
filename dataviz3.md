@@ -76,7 +76,12 @@ Since J has experience making data visualization before, she double confirmed al
 ### Second test participant:
 M is a softeware engineer based in Pittsburgh
 <br>
+<img src="https://ppt.cc/fn0g9x@.png" alt="testee" width="701" height="517">
+<br>
+
 His feedback:
+He hoped to see more animals such as dolphins, polar bears, leopards, tigers, lions, spiders, and so on. He also found out all creatures in the chart are mammals, and he suggested I should not have a title with "most species" because it's misleading. Like the first testee, he also wanted to see the relationship between the brain-to-body ratio and EQ. He believes this chart might be helpful for archaeologists and biologists. He would like to have the bubbles line up from small to big, and label every bubble, helping users identify the biggest and smallest bubbles.
+
 
 ## Step5. build my solution
 
@@ -85,6 +90,7 @@ I used Tableau to visualize data because Tableau allows more custimized function
 
 ### Key Design Decisions
 
+I did not expect I could get such valuable feedback from both testees. Based on their feedback, I made major changes:
 1. Add the x and y axis: Thought I do not really like the scale to be log-based, I added them back so that readers are able to easily compare brain weights and body weights among different species.
 2. Change the header
 3. 
