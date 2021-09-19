@@ -1,4 +1,4 @@
-# Critique the data visualization
+# Critique Data Visualization
 
 ## Step1. find a data visualization 
 
