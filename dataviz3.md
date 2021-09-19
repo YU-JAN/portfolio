@@ -91,12 +91,11 @@ A link to the original data visualization:
 I used Tableau to visualize data because Tableau allows more custimized functionalities compared to Flourish.
 
 ### Key Design Decisions
-
-I did not expect I could get such valuable feedback from both testees. Based on their feedback, I made major changes:
-1. *Add the x and y axis*: Thought I do not really like the scale to be log-based, I added them back so that readers are able to easily compare brain weights and body weights among different species.
-2. *Change the chart header*: I changed to title to be more "Higher Brain-to-body Ratio in Mammals Means Smarter?" to avoid misleading users that this chart include all species. Using questions, on the other hand, prompt users to critically think about the chart, and have their own explaination.
-3. *Change the color palatte*: Instead of having yellow-to-purple color spectrum, I made it pruple shades, which helps users to easily compare different circles.
-4. *Add one more window solelt for brain-to-body ratio comparision*: Since I really like both test participants' ideas, yet they are dealing with different issues, and I did not see the point to combine two ideas together, so I added one more screen to help users clearly see the highest and lowest brain-to-body ratio.
+I did not expect I could get such valuable feedback from both testees. I enjoyed the time talking with them, getting to know some blind spots I had for the chart redesign. Based on their feedback, I made four major changes:
+1. *Add the x and y-axis*: Though I am not a fan of the scale to be log-based, I added them back so that readers can easily compare brain weights and body weights among different species.
+2. *Change the chart header*: I modified the title to be "Higher Brain-to-body Ratio in Mammals Means Smarter?" to avoid misleading users that this chart includes all species. Also, using questions as a header enable users to critically think about the graphic, and have their explanation.
+3. *Tweak the color palette*: Instead of having a yellow-to-purple color spectrum, I made it purple shades, which helps users to better compare different circles.
+4. *Add one more view for brain-to-body ratio comparison*: I like both test participants' opinions, yet what they suggested are for different issues, and I did not see the point to combine two ideas, so I added one more screen to help users see the highest and lowest brain-to-body ratio.
 
 ### Final Data Visualization
 
@@ -109,6 +108,6 @@ https://public.tableau.com/app/profile/yu.jan.chang/viz/assignment3_163199012309
 <br>
 View 2
 <br>
-https://public.tableau.com/views/assignment3-2_16320739795200/Sheet2?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/assignment3-2_16320739795200/Sheet2
 
-<div class='tableauPlaceholder' id='viz1632074159302' style='position: relative'><noscript><a href='#'><img alt='Higher Brain-to-body Ratio in Mammals Means Smarter? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;as&#47;assignment3-2_16320739795200&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='assignment3-2_16320739795200&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;as&#47;assignment3-2_16320739795200&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-TW' /><param name='filter' value='publish=yes' /></object></div>               
+<div class='tableauPlaceholder' id='viz1632074282425' style='position: relative'><noscript><a href='#'><img alt='Higher Brain-to-body Ratio in Mammals Means Smarter? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;as&#47;assignment3-2_16320739795200&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='assignment3-2_16320739795200&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;as&#47;assignment3-2_16320739795200&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-TW' /><param name='filter' value='publish=yes' /></object></div>           
