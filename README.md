@@ -14,3 +14,5 @@ Here is where all my cool work will go. You will defintely hire me by seeing the
 [Assignment1: Visualizing government debt](/dataviz2.md)
 <br>
 [Assignment2: Critique by Design](/dataviz3.md)
+<br>
+[Final Project Overview](/finalproject.md)
