@@ -9,17 +9,17 @@ Gender income gap has been a known issue for decades. Despite the technological 
 
 Learned from the Good Charts book, I would like to incorporate "tell stories," "create tension" and "setup-conflict-resolution" model for my topic.
 <br>
-Setup:
+🧡Setup:
 <br>
 Start with a story: Jenny graduated from Carnegie Mellon University 3 years ago, she
 <br>
-Conflict:
+🧡Conflict:
 <br>
 Story: One day, Jenny found out that her salary is lower than all of her male colleagues.
 <br>
 Chart: showing the income wage difference, across countries(Ideally, this chart will be a map) and within the US(Ideally, this chart will be a map). Then move on to another chart, highlight the wage inequality in tech industries.
 <br>
-Resolution:
+🧡Resolution:
 <br>
 Chart: showing the inequality line by years, and ideally the chart shows the gender income gap is decreasing. 
 <br>
