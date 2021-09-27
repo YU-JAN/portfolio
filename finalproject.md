@@ -1,6 +1,6 @@
 # High Level Project Summary:
 
-###"Same work, different pay? Here is the Gender Income Gap"
+### "Same work, different pay? Here is the Gender Income Gap"
 Gender income gap has been a known issue for decades. Despite the technological advancedment, this inequality seems to remain the same. Therefore, in the final report, I intend to explore gender wage gap, and how we could potentially help with the issue. I would also like to apply the data visualization methodologies I learned in Telling Stories with Data class to the topic. 
 
 # Part I
