@@ -1,10 +1,20 @@
 # High Level Project Summary:
 
-Gender income gap has been a known issue for decades. Despite the technological advancedment, this inequality seems to remain the same. Therefore, in the final report, I would like to apply the data visualization methodologies I learned in Telling Stories with Data class to the topic. 
+Gender income gap has been a known issue for decades. Despite the technological advancedment, this inequality seems to remain the same. Therefore, in the final report, I intend to explore gender wage gap, and how we could potentially help with the issue. I would also like to apply the data visualization methodologies I learned in Telling Stories with Data class to the topic. 
 
 # Part I
 
 ## Outline
+
+Learned from the Good Charts book, I would like to incorporate "tell stories," "create tension" and "setup-conflict-resolution" model for my topic.
+<br>
+Setup:
+<br>
+Conflict:
+<br>
+Resolution:
+
+![Image of wireframe](https://ppt.cc/f6pSJx)
 
 
 ## The data
@@ -21,3 +31,4 @@ In this dataset, I would like to further compare the weekly earning among men an
 
 ## Method
 
+I plan to use shorthand as the story landing page
