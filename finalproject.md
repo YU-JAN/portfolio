@@ -11,23 +11,26 @@ Learned from the Good Charts book, I would like to incorporate "tell stories," "
 <br>
 📍Setup:
 <br>
-- Start with a story: Jenny graduated from Carnegie Mellon University 3 years ago, she's currently working in Pittsburgh for a self-driving company.
+Start with a story: Jenny graduated from Carnegie Mellon University 3 years ago, she's currently working in Pittsburgh for a self-driving company.
 <br>
 📍Conflict:
 <br>
-- Story: One day, Jenny found out that her salary is lower than all of her male colleagues.
+Story: One day, Jenny found out that her salary is lower than all of her male colleagues.
 <br>
-- Chart: showing the income wage difference, across countries(Ideally, this chart will be a map) and within the US(Ideally, this chart will be a map). Then move on to another chart, highlight the wage inequality in tech industries.
+Chart: showing the income wage difference, across countries(Ideally, this chart will be a map) and within the US(Ideally, this chart will be a map). Then move on to another chart, highlight the wage inequality in tech industries.
 <br>
 📍Resolution:
 <br>
-- Chart: showing the inequality line by years, and ideally the chart shows the gender income gap is decreasing. 
+Chart: showing the inequality line by years, and ideally the chart shows the gender income gap is decreasing. 
 <br>
-- Call to action: In this section, I would like to share some relevant articles, which help readers who want to dive deep into these topics. I will also share some websites that call out gender equality.
+Call to action: In this section, I would like to share some relevant articles, which help readers who want to dive deep into these topics. I will also share some websites that call out gender equality.
 
 ![Image of wireframe](https://ppt.cc/f6pSJx@.png)
 
 ## Initial sketches
+
+### Storyboard 
+
 
 
 ## The data
@@ -37,7 +40,7 @@ For the final report, I have identified some datasets that might be useful:
 The dataset includes the wage gap ratio among 39 OCED countries in 20 years. In this dataset, I intend to compare the income inequality across different countries. 
 2. Labor Force Statistics from the Current Population Survey [Clich here](https://www.bls.gov/cps/cpsaat39.htm)
 In this dataset, I would like to further compare the weekly earning among men and women in different occupations, and I especially want to look into the wage gap in the tech industry.
-3.Pittsburgh American Community Survey 2015 - Miscellaneous Data [Clich here](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data)
+3. Pittsburgh American Community Survey 2015 - Miscellaneous Data [Clich here](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data)
 In this dataset, I would like to specifically show the gender income difference in Pittsburgh.
 
 
