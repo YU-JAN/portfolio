@@ -25,22 +25,22 @@ Chart: showing the inequality line by years, and ideally the chart shows the gen
 <br>
 Call to action: In this section, I would like to share some relevant articles, which help readers who want to dive deep into these topics. I will also share some websites that call out gender equality.
 
-![Image of wireframe](https://ppt.cc/f6pSJx@.png)
+![Image of wireframe](/journey.png)
 
 ## Initial sketches
 
 ### Storyboard 
-
+![Image of wireframe](/storyboard.png)
 
 
 ## The data
 
 For the final report, I have identified some datasets that might be useful:
-1. Gender Wage Gap from OCED:  [Clich here](https://www.oecd.org/gender/data/employment/)
+1. Gender Wage Gap from OCED:  [Click here](https://www.oecd.org/gender/data/employment/)<br>
 The dataset includes the wage gap ratio among 39 OCED countries in 20 years. In this dataset, I intend to compare the income inequality across different countries. 
-2. Labor Force Statistics from the Current Population Survey [Clich here](https://www.bls.gov/cps/cpsaat39.htm)
+2. Labor Force Statistics from the Current Population Survey [Click here](https://www.bls.gov/cps/cpsaat39.htm)<br>
 In this dataset, I would like to further compare the weekly earning among men and women in different occupations, and I especially want to look into the wage gap in the tech industry.
-3. Pittsburgh American Community Survey 2015 - Miscellaneous Data [Clich here](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data)
+3. Pittsburgh American Community Survey 2015 - Miscellaneous Data [Click here](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data)<br>
 In this dataset, I would like to specifically show the gender income difference in Pittsburgh.
 
 
