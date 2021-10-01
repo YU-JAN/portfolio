@@ -54,3 +54,44 @@ I plan to use shorthand or Wix as the story medium, and I will illustrate some f
 
 # Part II
 
+## Storyboard and wireframes
+
+## User research and interviews
+
+### User research protocol
+
+#### Research goal:
+- To discover some issues (blind-spots) within the wireframe
+- To guage readers' general feelings after reading through the story
+- To understand general readers' expereince in using ridehailing apps 
+
+#### Target test participants: 
+I plan to invite 3 test participants. I would like to reach out to people who have rideshare experience so that they will feel more relatable, and it might be easier for them to find out some detailed issues within the wireframe. I also intended to reach out to some visual designers for feedback because they might give more valuable suggestions in terms of visual representations.
+
+
+#### Interview script:
+Opening
+<br>
+Welcome, it’s nice to meet you and thank you for being here, I will be the one conducting this interview with you. As we mentioned, I am working on a final data visualization project for a class, and today, I would like to show you my wireframe, and ask for your thoughts, impressions, and feedback. Please be honest! All of these are just ideas meant to generate more ideas, so feel free to be “mean” about the wireframe. The more honest feedback I get right now, in the early stages of the work, the better the outcome will be for the project. Do you have any questions?
+<br>
+Higer level questions
+<br>
+So I am going to ask some background questions just to note for reference.
+- Can you tell me about yourself?
+- Have you ever used any ride-hailing app like Uber or Lyft?
+<br>
+wireframe Section
+<br>
+Ok, Now, I would like to share the wireframe with you.(showing the wireframe), please feel free to navigate the wireframe on your own. I encourage you to think a loud, because I would be able to know how you think about the story.
+<br>
+After test participants read through the wireframe
+<br>
+Now I would like to ask you few questions.
+
+#### Findings
+
+
+## moodboards and personas
+
+
+
