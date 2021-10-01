@@ -58,7 +58,7 @@ I plan to use shorthand or Wix as the story medium, and I will illustrate some f
 
 ## User research and interviews
 
-### User research protocol
+### User research(Testing) protocol
 
 #### Research goal:
 - To discover some issues (blind-spots) within the wireframe
@@ -86,7 +86,17 @@ Ok, Now, I would like to share the wireframe with you.(showing the wireframe), p
 <br>
 After test participants read through the wireframe
 <br>
-Now I would like to ask you few questions.
+Now I would like to ask you a few questions.
+- What do you feel about the visual story in general?
+- Please tell me what do you learn from this story?
+- What do you think about the data visualization?
+- What will you do after reading this landing page?
+- Do you have any questions or concerns about the story?
+<br>
+Wrap-up Questions
+- Thank you for today's interview, do you have anything you want to share with me?
+- Do you recommend me talk to anyone else and can you make that connection?
+
 
 #### Findings
 
