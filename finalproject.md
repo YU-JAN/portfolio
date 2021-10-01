@@ -1,4 +1,4 @@
-# High Level Project Summary:
+## High Level Project Summary:
 
 ### "Hey I am Andrea, and I am a female Uber driver." 
 
