@@ -70,18 +70,17 @@ I plan to invite 3 test participants. I would like to reach out to people who ha
 
 
 #### Interview script:
-Opening
-<br>
+##### Opening
 Welcome, it’s nice to meet you and thank you for being here, I will be the one conducting this interview with you. As we mentioned, I am working on a final data visualization project for a class, and today, I would like to show you my wireframe, and ask for your thoughts, impressions, and feedback. Please be honest! All of these are just ideas meant to generate more ideas, so feel free to be “mean” about the wireframe. The more honest feedback I get right now, in the early stages of the work, the better the outcome will be for the project. Do you have any questions?
-<br>
-Higer level questions
-<br>
+
+##### Higer level questions
+
 So I am going to ask some background questions just to note for reference.
 - Can you tell me about yourself?
 - Have you ever used any ride-hailing app like Uber or Lyft?
-<br>
-wireframe Section
-<br>
+
+##### wireframe Section
+
 Ok, Now, I would like to share the wireframe with you.(showing the wireframe), please feel free to navigate the wireframe on your own. I encourage you to think a loud, because I would be able to know how you think about the story.
 <br>
 After test participants read through the wireframe
@@ -93,8 +92,8 @@ Now I would like to ask you a few questions.
 - What will you do after reading this landing page?
 - Is there anything you would change or do differently?
 - Do you have any questions or concerns about the story?
-<br>
-Wrap-up Questions
+
+##### Wrap-up Questions
 - Thank you for today's interview, do you have anything you want to share with me?
 - Do you recommend me talk to anyone else and can you make that connection?
 
