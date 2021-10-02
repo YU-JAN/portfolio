@@ -23,9 +23,6 @@ What we could do? Let's look at how governments and organizations have done: (1)
 
 ## Initial sketches
 
-### Storyboard 
-![Image of wireframe](/storyboard.png)
-
 
 ## The data
 
@@ -46,6 +43,9 @@ I plan to use shorthand or Wix as the story medium, and I will illustrate some f
 # Part II
 
 ## Storyboard and wireframes
+
+### Storyboard 
+![Image of wireframe](/storyboard.png)
 
 ## User research and interviews
 
