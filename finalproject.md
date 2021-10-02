@@ -45,7 +45,7 @@ I plan to use shorthand or Wix as the story medium, and I will illustrate some f
 ## Storyboard and wireframes
 
 ### Storyboard 
-![Image of wireframe](/storyboard.png)
+![Image of wireframe](/storyboard1.png)
 
 ## User research and interviews
 
