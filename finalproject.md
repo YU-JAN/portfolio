@@ -4,7 +4,7 @@
 
 I got to talk with some uber and Lyft drivers before and learned about many challenges rideshare drivers might encounter, such as safety and benefits. While reading posts from a Facebook ground called ["Women Uber Drivers & Women Lyft Drivers"](https://www.facebook.com/groups/1065540300147658) I was impressed by many unreasonable issues that happened around female drivers. My intention for this final presentation is to tell a story and draw everyone's attention to this minority gig worker group.
 
-//Note: I changed the topic in phase two; the original one was the gender income gap. Instead of making an effort on a generic and well-known topic (which is also essential), I decided to go with a more specific case with some income gap data to support my story. 
+//Note: I changed the topic in the phase two; the original one was the gender income gap. Instead of making an effort on a generic and well-known topic (which is also essential), I decided to go with a more specific case with some income gap data to support my story. 
 
 # Part I
 
@@ -14,7 +14,7 @@ Learned from the Good Charts book, I would like to incorporate "tell stories," "
 <br>
 📍Setup:
 <br>
-Start with a story: Jenny graduated from Carnegie Mellon University 3 years ago, she's currently working in Pittsburgh for a self-driving company.
+Start with background information : Jenny graduated from Carnegie Mellon University 3 years ago, she's currently working in Pittsburgh for a self-driving company.
 <br>
 📍Conflict:
 <br>
@@ -91,6 +91,7 @@ Now I would like to ask you a few questions.
 - Please tell me what do you learn from this story?
 - What do you think about the data visualization?
 - What will you do after reading this landing page?
+- Is there anything you would change or do differently?
 - Do you have any questions or concerns about the story?
 <br>
 Wrap-up Questions
