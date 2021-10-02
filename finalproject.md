@@ -12,21 +12,14 @@ I got to talk with some uber and Lyft drivers before and learned about many chal
 
 Learned from the Good Charts book, I would like to incorporate "tell stories," "create tension" and "setup-conflict-resolution" model for my topic.
 <br>
-📍Setup:
-<br>
-Start with background information : Jenny graduated from Carnegie Mellon University 3 years ago, she's currently working in Pittsburgh for a self-driving company.
-<br>
-📍Conflict:
-<br>
-Story: One day, Jenny found out that her salary is lower than all of her male colleagues.
-<br>
-Chart: showing the income wage difference, across countries(Ideally, this chart will be a map) and within the US(Ideally, this chart will be a map). Then move on to another chart, highlight the wage inequality in tech industries.
-<br>
-📍Resolution:
-<br>
-Chart: showing the inequality line by years, and ideally the chart shows the gender income gap is decreasing. 
-<br>
-Call to action: In this section, I would like to share some relevant articles, which help readers who want to dive deep into these topics. I will also share some websites that call out gender equality.
+#### 📍Setup:
+Start with background information: I would like to start by sharing what the "gig economy" is and why it is so popular now, and then introduce Uber, as a rideshare company, about how it grows in recent years. After that, I will show a driver sex ratio, and lead the audience to the topic. Starting from a female uber driver's story.
+#### 📍Conflict:
+Story: Andrea is a single mom, she found out that driving cars for Uber might be a good business when she has spare time. However, she barely notices that being a female uber driver, there are a lot of challenges awaiting her. Starting from income inequality, a study from Standford shows that man has more hourly wage than women. Looking into mobility safety, being a uber drive put Andrea at a high risk of carjacking. Uber and Lyft didn’t respond to requests to provide data on the number of carjackings involving their drivers. Other things like sexual harassment etc.  
+#### 📍Resolution:
+What we could do? Let's look at how governments and organizations have done: (1) Seattle City Council votes to take a closer look at ride-hailing services (2) There are many female uber/Lyft drivers' guilds on Facebook. 
+#### Call to action: 
+In this section, I would like to share some relevant articles that readers can further dive into, some petitions that might be related to the topic so that readers can take an action if they want to support female uber drivers.
 
 ![Image of wireframe](/journey.png)
 
