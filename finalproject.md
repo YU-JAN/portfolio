@@ -16,10 +16,8 @@ Learned from the Good Charts book, I would like to incorporate "tell stories," "
 Start with background information: I would like to start by sharing what the "gig economy" is and why it is so popular now, and then introduce Uber, as a rideshare company, about how it grows in recent years. After that, I will show a driver sex ratio, and lead the audience to the topic. Starting from a female uber driver's story.
 #### 📍Conflict:
 Story: Andrea is a single mom, she found out that driving cars for Uber might be a good business when she has spare time. However, she barely notices that being a female uber driver, there are a lot of challenges awaiting her. Starting from income inequality, a study from Standford shows that man has more hourly wage than women. Looking into mobility safety, being a uber drive put Andrea at a high risk of carjacking. Uber and Lyft didn’t respond to requests to provide data on the number of carjackings involving their drivers. Other things like sexual harassment etc.  
-#### 📍Resolution:
-What we could do? Let's look at how governments and organizations have done: (1) Seattle City Council votes to take a closer look at ride-hailing services (2) There are many female uber/Lyft drivers' guilds on Facebook. 
-#### Call to action: 
-In this section, I would like to share some relevant articles that readers can further dive into, some petitions that might be related to the topic so that readers can take an action if they want to support female uber drivers.
+#### 📍Resolution and call to action:
+What we could do? Let's look at how governments and organizations have done: (1) Seattle City Council votes to take a closer look at ride-hailing services (2) There are many female uber/Lyft drivers' guilds on Facebook. I would also like to share some relevant articles that readers can further dive into, some petitions that might be related to the topic so that readers can take an action if they want to support female uber drivers.
 
 ![Image of wireframe](/journey.png)
 
