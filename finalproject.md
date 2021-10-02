@@ -19,7 +19,7 @@ Story: Andrea is a single mom, she found out that driving cars for Uber might be
 #### 📍Resolution and call to action:
 What we could do? Let's look at how governments and organizations have done: (1) Seattle City Council votes to take a closer look at ride-hailing services (2) There are many female uber/Lyft drivers' guilds on Facebook. I would also like to share some relevant articles that readers can further dive into, some petitions that might be related to the topic so that readers can take an action if they want to support female uber drivers.
 
-![Image of wireframe](/journey.png)
+![Image of wireframe](/journeymap.png)
 
 ## Initial sketches
 
