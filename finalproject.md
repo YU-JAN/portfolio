@@ -91,8 +91,20 @@ Now I would like to ask you a few questions.
 
 #### Findings
 
+##### Test participant 1
+- The section separators were not clear
+- There was no summary to connect everything,so a little bit overwheling (you dont have a connection between story and Andrea) --> Summary needs to be more visible, connect back to Andrea, and make sure if readers follow.
+- The lack of visual data (it's more just text, did not see too many graphics)
+- The visual representation could be more creative/illustrative
+- The sexual harassment section does not have visual, maybe need more data points on that.
 
-## moodboards and personas
+
+- I should have more objective reasoning behind why
+-  (action) not be an uber driver, but I will probably read the recommended action and verify the source.
+-  What is the intention about the story. I think this study should motivate more people to conduct more study and urge Uber/Lyft to show more dataset.
 
 
+## Moodboard
+
+I would like the color scheme to be really soft and calm.
 
