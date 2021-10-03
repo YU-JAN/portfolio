@@ -106,5 +106,6 @@ Now I would like to ask you a few questions.
 
 ## Moodboard
 
-I would like the color scheme to be really soft and calm.
+I would like to create a color scheme that is soft and calm to convey the topic of female uber drivers. Here is my mood board.
 
+![Image of moodboard](/moodboard.png)
