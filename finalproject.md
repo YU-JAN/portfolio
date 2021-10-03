@@ -47,6 +47,10 @@ I plan to use shorthand or Wix as the story medium, and I will illustrate some f
 ### Storyboard 
 ![Image of wireframe](/storyboard1.png)
 
+### Wireframe
+
+[Click here](https://preview.shorthand.com/4BtDcbYiMgXKWjfQ)
+
 ## User research and interviews
 
 ### User research(Testing) protocol
