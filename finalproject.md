@@ -107,6 +107,11 @@ Now I would like to ask you a few questions.
 -  (action) not be an uber driver, but I will probably read the recommended action and verify the source.
 -  What is the intention about the story. I think this study should motivate more people to conduct more study and urge Uber/Lyft to show more dataset.
 
+##### Test participant 2
+- The color palette for different charts needs to be consistent.
+- Some chart labels are missing, which causes more confusion while reading the chart. Please make sure all charts have labels on the x and y-axis.
+- Detailed feedback on weekly earning comparison: In your paragraph, you said the income gap is 7%, while looking at the chart I feel the gap is more than 7%
+
 
 ## Moodboard
 
