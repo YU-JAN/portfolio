@@ -2,9 +2,12 @@
 
 ### "Hey I am Andrea, and I am a female Uber driver." 
 
-I got to talk with some uber and Lyft drivers before and learned about many challenges rideshare drivers might encounter, such as safety and benefits. While reading posts from a Facebook ground called ["Women Uber Drivers & Women Lyft Drivers"](https://www.facebook.com/groups/1065540300147658) I was impressed by many unreasonable issues that happened around female drivers. My intention for this final presentation is to tell a story and draw everyone's attention to this minority gig worker group.
+The final project is aimed to draw people's attention to an invisible topic - female Uber drivers and the difficulties they encounter. In the report, several data visualizations, such as bar charts, line charts, and maps, are made to better convey the information.
+<br>
+<br>
+I got to talk with some uber and Lyft drivers before and learned about many challenges rideshare drivers might encounter, such as safety and benefits. While reading posts from a Facebook ground called ["Women Uber Drivers & Women Lyft Drivers"](https://www.facebook.com/groups/1065540300147658) I was surprised by many unreasonable issues that happened around female drivers. My intention for this final presentation is to tell a story and draw everyone's attention to this minority gig worker group, and potentially invite everyone to make some changes.
 
-//Note: I changed the topic in the phase two; the original one was the gender income gap. Instead of making an effort on a generic and well-known topic (which is also essential), I decided to go with a more specific case with some income gap data to support my story. 
+//Note: I changed the topic in the phase 2; the original one was the gender income gap. Instead of making an effort on a generic and well-known topic (which is also essential), I decided to go with a more specific case with some income gap data to support my story. 
 
 # Part I
 
@@ -37,7 +40,7 @@ The dataset includes the wage gap ratio among 39 OCED countries in 20 years. In 
 
 ## Method and medium
 
-I plan to use shorthand or Wix as the story medium, and I will illustrate some figures on Illustration and Photoshop to add more visual elements to the story. I'll also look up some free photo stock like Unsplash for my story scenarios. As for data analysis, I plan to use Excel, or SQL for data cleaning and dealing with missing data. The major data visualization tool for the assignment will be Tableau and Flourish.
+I plan to use Wix as the story medium, and I will illustrate some figures on Illustration and Photoshop to add more visual elements to the story. I'll also look up some free photo stocks like Unsplash for my story scenarios. As for data analysis, I plan to use Excel, or SQL for data cleaning and dealing with missing data. The major data visualization tool for the assignment will be Tableau and Flourish.
 
 
 # Part II
