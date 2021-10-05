@@ -15,4 +15,6 @@ Here is where all my cool work will go. You will defintely hire me by seeing the
 <br>
 [Assignment2: Critique by Design](/dataviz3.md)
 <br>
-[Final Project Overview](/finalproject.md)
+[Final Project Overview Part 1](/finalproject.md)
+<br>
+[Final Project Part 2](/finalproject2.md)
