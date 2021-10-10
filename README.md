@@ -20,3 +20,5 @@ Here is where all my cool work will go. You will defintely hire me by seeing the
 [Final Project Part 2](/finalproject2.md)
 <br>
 [Final Project Part 3](/finalproject3.md)
+<br>
+[Final Deliverable: Data Story](https://www.yujanchang.com/femaleuberdriver)
