@@ -1,6 +1,9 @@
 
 # Part II
 
+### Quick Access to Part I
+[Click here](finalproject.md)
+
 ## Storyboard and wireframes
 
 ### Storyboard 
@@ -80,6 +83,12 @@ Now I would like to ask you a few questions.
 - The color palette needs to rearrange and match the presentation.
 - Should have a summary in each paragraph to help readers recap and summarize the important parts.
 - Customize the call to action to different user groups.
+
+
+#### Feedback from the professor and TA
+- Working on the story flow to make it less text heavy. 
+- Varying the layout of the Shorthand would be nice.
+- Some visualizations that need axis labels and titles to be more clear on what they are portraying. 
 
 
 ## Moodboard
