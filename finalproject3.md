@@ -22,4 +22,8 @@ Photo creaidt:
 Earth, photo by NASA on Unsplash, [Click here](https://unsplash.com/photos/vhSz50AaFAs)
 <br>
 Earth, photo by NASA on Unsplash, [Click here](https://unsplash.com/photos/N3BQHYOVq5E)
+<br>
+Female Figure on the gig economy by Freepik, [Click here](https://www.freepik.com/free-vector/group-strong-women-vector_3759790.htm#page=1&query=figur&position=40&from_view=search)
+<br>
+Phone, and [Click here](https://www.flaticon.com/search?word=phone&type=icon)
 
