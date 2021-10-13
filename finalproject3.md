@@ -35,9 +35,6 @@ To prepare for the 1-minute pitch, I tried multiple forms with different content
 
 ## References for Materials Used
 
-Photo creaidt:
-<br>
-Female Figure on the gig economy by Freepik, [Click here](https://www.freepik.com/free-vector/group-strong-women-vector_3759790.htm#page=1&query=figur&position=40&from_view=search)
 <br>
 Icons by Flation [Click here](https://www.flaticon.com/search?word=phone&type=icon)
 <br>
@@ -56,15 +53,9 @@ Icons by Flation [Click here](https://www.flaticon.com/search?word=phone&type=ic
 7. Which is riskier: taking an Uber or driving one?[online]. Available: https://xtown.la/2019/10/03/which-is-riskier-taking-an-uber-or-driving-one/
 <br>
 8. Uber Says 3,045 Sexual Assaults Were Reported in U.S. Rides Last Year [online]. Available: https://www.nytimes.com/2019/12/05/technology/uber-sexual-assaults-murders-deaths-safety.html
-
 <br>
-
-
 9. Uber Fined $59 Million for Refusing to Turn Over Sexual Assault Data to CPUC [online]. Available: https://www.esrcheck.com/wordpress/2020/12/15/uber-fined-59-million-sexual-assault-data/
-
 <br>
-
-
 10. Female drivers for Uber and Lyft say sexual harassment is the norm — and getting help from the companies isn't easy [online]. Available: https://www.businessinsider.com/female-uber-lyft-drivers-say-sexual-harassment-is-rampant-2019-6 <br>
 
 11. Gig Carjacking dataset https://github.com/the-markup/investigation-gig-carjacking
