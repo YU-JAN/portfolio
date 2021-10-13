@@ -26,7 +26,7 @@ What we could do? Let's look at how governments and organizations have done: (1)
 
 ## Initial sketches
 
-<img src="sketch3.png" alt="drawing" width="400"/>
+<img src="sketch3.png" alt="drawing" width="600"/>
 
 
 
