@@ -17,10 +17,13 @@ I strive to create products and services accessible to different user groups so 
 Want to have a chat? Just drop me a message: 
 yujanc@andrew.cmu.edu
 
+or if you want to connect with me through Linkedin:
+https://www.linkedin.com/in/yu-jan-chang-592853a0/
+
 # What I hope to learn
 I am eager to learn everything related to data and visualization!
 
-# Portfolio
+# Portfolio Pieces 
 Here is where all my cool work will go. You will defintely hire me by seeing these!
 
 [Assignment1: Visualizing government debt](/dataviz2.md)
