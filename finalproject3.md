@@ -40,4 +40,43 @@ Photo creaidt:
 Female Figure on the gig economy by Freepik, [Click here](https://www.freepik.com/free-vector/group-strong-women-vector_3759790.htm#page=1&query=figur&position=40&from_view=search)
 <br>
 Icons by Flation [Click here](https://www.flaticon.com/search?word=phone&type=icon)
+<br>
+1. gig economy [online]. Available: https://whatis.techtarget.com/definition/gig-economy
+<br>
+2. Uber Inventor Financial [online]. Available: https://investor.uber.com/financials/default.aspx
+<br>
+3. Just How Far Is Your Uber Driver Willing To Take You? [online]. Available: https://www.forbes.com/sites/harrycampbell/2015/03/24/just-how-far-is-your-uber-driver-willing-to-take-you/?sh=26739665597c
+<br>
+4. How Many Uber Drivers Are There in 2021? [online]. Available: https://www.ridester.com/how-many-uber-drivers-are-there/
+<br>
+5. Uber's Gender Pay Gap Study May Show The Opposite Of What Researchers Were Trying To Prove [online]. Available: https://www.forbes.com/sites/avivahwittenbergcox/2018/09/23/gender-paygap-uber-case-study/?sh=4e4071b7b555
+<br>
+6. The Gender Earnings Gap in the Gig Economy: Evidence from over a Million Rideshare Drivers [online]. Available: https://web-stanford-edu.cmu.idm.oclc.org/~diamondr/UberPayGap.pdf
+<br>
+7. Which is riskier: taking an Uber or driving one?[online]. Available: https://xtown.la/2019/10/03/which-is-riskier-taking-an-uber-or-driving-one/
+<br>
+8. Uber Says 3,045 Sexual Assaults Were Reported in U.S. Rides Last Year [online]. Available: https://www.nytimes.com/2019/12/05/technology/uber-sexual-assaults-murders-deaths-safety.html
 
+<br>
+
+
+9. Uber Fined $59 Million for Refusing to Turn Over Sexual Assault Data to CPUC [online]. Available: https://www.esrcheck.com/wordpress/2020/12/15/uber-fined-59-million-sexual-assault-data/
+
+<br>
+
+
+10. Female drivers for Uber and Lyft say sexual harassment is the norm — and getting help from the companies isn't easy [online]. Available: https://www.businessinsider.com/female-uber-lyft-drivers-say-sexual-harassment-is-rampant-2019-6 <br>
+
+11. Gig Carjacking dataset https://github.com/the-markup/investigation-gig-carjacking
+<br>
+12. Uber And Lyft Drivers Are Being Carjacked at Alarming Rates [online]. Available: https://themarkup.org/working-for-an-algorithm/2021/07/22/uber-and-lyft-drivers-are-being-carjacked-at-alarming-rates
+<br>
+13.Uber reaches agreement in California sexual assault data request https://www.reuters.com/business/autos-transportation/uber-reaches-agreement-california-sexual-assault-data-request-2021-07-16/
+<br>
+14. Female drivers feel abandoned by Uber and Lyft after reporting a sexual assault [online]. Available: https://www.theguardian.com/technology/2019/jun/19/uber-lyft-female-drivers-sexual-assault
+<br>
+15. "Thrown to the wolves' - the women who drive for Uber and Lyft
+
+[Online] Available: https://www.bbc.com/news/technology-46990533
+<br>
+Charts were made by Flourish (https://flourish.studio/)
