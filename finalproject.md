@@ -26,6 +26,9 @@ What we could do? Let's look at how governments and organizations have done: (1)
 
 ## Initial sketches
 
+<img src="sketch.png" alt="drawing" width="400"/>
+
+
 
 ## The data
 
