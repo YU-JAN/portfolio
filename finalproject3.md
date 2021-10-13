@@ -58,7 +58,6 @@ Icons by Flation [Click here](https://www.flaticon.com/search?word=phone&type=ic
 9. Uber Fined $59 Million for Refusing to Turn Over Sexual Assault Data to CPUC [online]. Available: https://www.esrcheck.com/wordpress/2020/12/15/uber-fined-59-million-sexual-assault-data/
 <br>
 10. Female drivers for Uber and Lyft say sexual harassment is the norm — and getting help from the companies isn't easy [online]. Available: https://www.businessinsider.com/female-uber-lyft-drivers-say-sexual-harassment-is-rampant-2019-6 <br>
-
 11. Gig Carjacking dataset https://github.com/the-markup/investigation-gig-carjacking
 <br>
 12. Uber And Lyft Drivers Are Being Carjacked at Alarming Rates [online]. Available: https://themarkup.org/working-for-an-algorithm/2021/07/22/uber-and-lyft-drivers-are-being-carjacked-at-alarming-rates
@@ -67,8 +66,6 @@ Icons by Flation [Click here](https://www.flaticon.com/search?word=phone&type=ic
 <br>
 14. Female drivers feel abandoned by Uber and Lyft after reporting a sexual assault [online]. Available: https://www.theguardian.com/technology/2019/jun/19/uber-lyft-female-drivers-sexual-assault
 <br>
-15. "Thrown to the wolves' - the women who drive for Uber and Lyft
-
-[Online] Available: https://www.bbc.com/news/technology-46990533
+15. "Thrown to the wolves' - the women who drive for Uber and Lyft [Online] Available: https://www.bbc.com/news/technology-46990533
 <br>
 Charts were made by Flourish (https://flourish.studio/)
