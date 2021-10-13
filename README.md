@@ -3,6 +3,8 @@ This is my public portfolio for Telling Stories with Data at CMU
 
 # About me
 
+<img src="profile.png" alt="drawing" width="300"/>
+
 
 I am a product designer currently pursuing the Master of Integrated Innovation for Products & Services(UX Design) degree at Carnegie Mellon University where I explore new UX methods, conduct HCI research ( interactive voice technologies@Coala Lab, game design @eHeart Lab )
 
