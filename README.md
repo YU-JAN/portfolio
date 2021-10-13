@@ -2,8 +2,18 @@
 This is my public portfolio for Telling Stories with Data at CMU
 
 # About me
-I am a product designer currently pursuing the Master of Integrated Innovation for Products & Services(UX Design) degree at Carnegie Mellon University. I love to design for technology, healthcare, and gender issues, and I am especially into topics regarding ethical AI. I strive to create products and services accessible to different user groups so that each person can have an equal, fair, and uplifting user experience. 
 
+
+I am a product designer currently pursuing the Master of Integrated Innovation for Products & Services(UX Design) degree at Carnegie Mellon University where I explore new UX methods, conduct HCI research ( interactive voice technologies@Coala Lab, game design @eHeart Lab )
+
+I love to design for technology, healthcare, and gender issues, and I am especially into topics regarding ethical AI. In my fellowship project at CMU, I collaborated with the US Census Bureau to prototype an Anti-bias toolkit for governmental agencies.
+
+With my 3+ years in tech and media start-ups in Taiwan, I excel at improving user experience for digital products. I also designed logos and Web UI for freelance projects while I have spare time.
+
+I strive to create products and services accessible to different user groups so that each person can have an equal, fair, and uplifting user experience. 
+
+Want to have a chat? Just drop me a message: 
+yujanc@andrew.cmu.edu
 
 # What I hope to learn
 I am eager to learn everything related to data and visualization!
