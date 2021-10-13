@@ -15,7 +15,7 @@ Since many comments I received were focused on the clarity of the charts and som
 While finalizing the content and design, reviewers in class suggested I do not have to share all of the information in the story, and the more information on the site, the easier people will lose interest. So compared to the prototype in [phase 2](https://preview.shorthand.com/4BtDcbYiMgXKWjfQ), I removed the earth to mars graphics because it is just a metaphor to help readers imagine the length of 20 billion trips. I also streamlined the content by omitting too wordy descriptions in each paragraph.
 <br>
 ### 3. Add more hand-drawings:
-I spent some time experimenting with graphic style on this landing page. First, I wanted a visual story like some data stories from New York Times with decent graphics, so I did not add any photos on the page. However, I realized that I did not have that much time to flesh out all the illustrations myself, and decided to pick some relevant stock illustrations from Freepik. While implementing those sketches, I found that those illustrations were different and incompatible with my illustration. Eventually, I removed those pictures from Freepik, which might create some white space on the page, but more in united components.
+I spent some time experimenting with graphic style on this landing page. First, I wanted a visual story like some data stories from New York Times with decent graphics, so I did not add any photos on the page. However, I realized that I did not have that much time to flesh out all the illustrations myself, and decided to pick some relevant stock illustrations from Freepik. While implementing those sketches, I found that those illustrations were different and incompatible with my illustration. Eventually, I removed those pictures from Freepik, which might create some white space on the page, but more in united components. ( Apart from icons, all other illustrations are my work!)
 <br>
 
 ###  4. Font size:
@@ -28,10 +28,11 @@ While placing all components on the landing page, I noticed that adding some mic
 ## Identified Audience 
 
 My intended audiences are people who are able to access the Internet, who are interested in ride-hailing services, and people who can read in English. But if it's possible, I also want to draw big corporations' eyes (such as the platform service Uber, Lyft, DoorDash, Grubhub, and so on) to the specific group - Female rideshare drivers.
- 
+
+
 ## Presentation Preparation
 
-To prepare for the 1-minute pitch, I tried multiple forms with different content. I really want to talk about the background of the gig economy in the beginning before diving into Andrea's story. However, I was unable to control the time in 1 minute with all of the content. So I decided to focus on "Andrea's story" for my opening, and challenges next. It's an interesting experience to practice condense my speech into 1 minute, and I believe it will be helpful for my future elevator pitch too.
+To prepare for the 1-minute pitch, I tried multiple forms with different content. I really want to talk about the background of the gig economy in the beginning before diving into Andrea's story. However, I was unable to control the time in 1 minute with all of the content. So I decided to focus on "Andrea's story" for my opening, and challenges next. It's an interesting experience to practice condense my speech into 1 minute, and also see other classmate's presentation (was impressed by the business pitch, it is really cool!) I believe this presentation practice will be helpful for my future elevator pitch too!
 
 ## References for Materials Used
 
