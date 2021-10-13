@@ -25,7 +25,7 @@ After a few rounds of experiments, I decided to make the font size bigger than t
 ###  5. Animation
 While placing all components on the landing page, I noticed that adding some micro-animations can help catch users' eyes. I know that shorthand does a good job of automatically adding animations to the modules. But since I created the site with Wix, I need to assign an animation to each component individually. 
 
-### identified audience 
+## Identified Audience 
 
 My intended audiences are people who are able to access the Internet, who are interested in ride-hailing services, and people who can read in English. But if it's possible, I also want to draw big corporations' eyes (such as the platform service Uber, Lyft, DoorDash, Grubhub, and so on) to the specific group - Female rideshare drivers.
  
