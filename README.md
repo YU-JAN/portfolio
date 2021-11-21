@@ -42,31 +42,6 @@ Here is where all my cool work will go. You will defintely hire me by seeing the
 
 
 
-* Happy
-* bad
-    * again
-    * fafa
-      1. ff
-      2. dd
-        * dd
-        * dd
-            * dd 
-            * dd
-              . ff
-            
-* Level 1
-  * Level 2
-   * Level 3
-    * Level 4
-     * Level 5
-      * Level 6
-            * Level 7
-              * Level 8
-  
-  
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
 
 
             
