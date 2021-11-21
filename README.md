@@ -64,14 +64,9 @@ Here is where all my cool work will go. You will defintely hire me by seeing the
               * Level 8
   
   
-<ol type="I">
-<li>Foo
-<ol type="A">
-<li>Bar</li>
-<li>Baz</li>
-</ol></li>
-<li>Quux</li>
-</ol>
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style>
 
 
             
