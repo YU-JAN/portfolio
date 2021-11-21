@@ -38,17 +38,35 @@ Here is where all my cool work will go. You will defintely hire me by seeing the
 <br>
 [Final Deliverable: Data Story](https://www.yujanchang.com/femaleuberdriver)
 
-<ol>
- <li>First</li>
- <li>Second
- <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
-  <li style="margin-left:2em">Sub of Second</li>
-  <li style="margin-left:2em; padding-bottom: 0;">Another Sub</li>
- </ol>
- </li>
- <li>Third</li>
- <li>Fourth </li>
+4.**Barriers to telehealth in rural areas** *(Briefly introduce challenges to using telehealth as a solution, and clarify that these are the areas where the audience can make an impact in order to support telehealth adoption)*
+
+
+
+* Happy
+* bad
+    * again
+    * fafa
+      1. ff
+      2. dd
+        * dd
+        * dd
+            * dd 
+            * dd
+              . ff
+            
+            
+<ol type="I">
+<li>Foo
+<ol type="A">
+<li>Bar</li>
+<li>Baz</li>
+</ol></li>
+<li>Quux</li>
 </ol>
+            
+              
+          
+        
 
-
+      
 
