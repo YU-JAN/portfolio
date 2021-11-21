@@ -38,17 +38,17 @@ Here is where all my cool work will go. You will defintely hire me by seeing the
 <br>
 [Final Deliverable: Data Story](https://www.yujanchang.com/femaleuberdriver)
 
-* haha
-    * haha2
-    * 
-
-* test
-* test2
-* Item 3
-    * Item 3a
-    * Item 3b
-    * Item 3c
-
+<ol>
+ <li>First</li>
+ <li>Second
+ <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+  <li style="margin-left:2em">Sub of Second</li>
+  <li style="margin-left:2em; padding-bottom: 0;">Another Sub</li>
+ </ol>
+ </li>
+ <li>Third</li>
+ <li>Fourth </li>
+</ol>
 
 
 
