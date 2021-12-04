@@ -69,3 +69,6 @@ Icons by Flation [Click here](https://www.flaticon.com/search?word=phone&type=ic
 15. "Thrown to the wolves' - the women who drive for Uber and Lyft [Online] Available: https://www.bbc.com/news/technology-46990533
 <br>
 Charts were made by Flourish (https://flourish.studio/)
+
+
+<script src="https://www.yujanchang.com/femaleuberdrivers/embed.js"></script>
