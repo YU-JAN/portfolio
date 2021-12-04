@@ -71,6 +71,5 @@ Icons by Flation [Click here](https://www.flaticon.com/search?word=phone&type=ic
 Charts were made by Flourish (https://flourish.studio/)
 
 <br>
-<script src="https://carnegiemellon.shorthandstories.com/i-am-andrea-a-female-uber-driver/embed.js"></script>
-<br>
-<script src="https://www.yujanchang.com/femaleuberdrivers/embed.js"></script>
+<script src="https://carnegiemellon.shorthandstories.com/strengthening-digital-infrastructure-and-telehealth-capabilities-for-a-healthier-rural-america/embed.js"></script>
+
